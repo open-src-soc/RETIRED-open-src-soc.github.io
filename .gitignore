@@ -1,0 +1,5 @@
+# Ignore all emacs backup and autosave files.
+*~
+[#]*[#]
+# Ignore the Mac OS hidden folders.
+.DS_Store
