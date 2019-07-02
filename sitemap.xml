@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://open-src-soc.org/index.html</loc>
+        <loc>http://open-src-soc.github.io/index.html</loc>
         <lastmod>2019-07-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/infos-pratiques.html</loc>
+        <loc>http://open-src-soc.github.io/infos-pratiques.html</loc>
         <lastmod>2019-06-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/inscription.html</loc>
+        <loc>http://open-src-soc.github.io/inscription.html</loc>
         <lastmod>2019-07-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/localisation.html</loc>
+        <loc>http://open-src-soc.github.io/localisation.html</loc>
         <lastmod>2019-07-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/programme-draft.html</loc>
+        <loc>http://open-src-soc.github.io/programme-draft.html</loc>
         <lastmod>2019-06-06</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/programme.html</loc>
+        <loc>http://open-src-soc.github.io/programme.html</loc>
         <lastmod>2019-07-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/riscv-v1.html</loc>
+        <loc>http://open-src-soc.github.io/riscv-v1.html</loc>
         <lastmod>2019-07-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
