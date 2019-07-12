@@ -154,11 +154,6 @@ appears on the left side of the page.
         margin: 0;
     }
 
-    .pure-menu-horizontal {
-      margin-left: 50%;
-      transform: translateX(-25%);
-    }
-
 /* -- Dynamic Button For Responsive Menu -------------------------------------*/
 
 /*
