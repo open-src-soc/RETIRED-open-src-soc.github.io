@@ -43,4 +43,11 @@
         <priority>0.8</priority>
     </url>
 
+    <url>
+        <loc>http://open-src-soc.org/sponsors.html</loc>
+        <lastmod>2019-07-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
 </urlset>
