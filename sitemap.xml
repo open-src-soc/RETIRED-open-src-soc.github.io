@@ -3,49 +3,49 @@
 
     <url>
         <loc>http://open-src-soc.org/index.html</loc>
-        <lastmod>2019-07-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>http://open-src-soc.org/infos-pratiques.html</loc>
-        <lastmod>2019-06-28</lastmod>
+        <lastmod>2019-07-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
         <loc>http://open-src-soc.org/inscription.html</loc>
-        <lastmod>2019-07-02</lastmod>
+        <lastmod>2019-07-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
         <loc>http://open-src-soc.org/localisation.html</loc>
-        <lastmod>2019-07-15</lastmod>
+        <lastmod>2019-07-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
         <loc>http://open-src-soc.org/programme.html</loc>
-        <lastmod>2019-07-16</lastmod>
+        <lastmod>2019-07-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
         <loc>http://open-src-soc.org/riscv-v1.html</loc>
-        <lastmod>2019-07-15</lastmod>
+        <lastmod>2019-07-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://open-src-soc.org/speakers.html</loc>
+        <lastmod>2019-07-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
         <loc>http://open-src-soc.org/sponsors.html</loc>
-        <lastmod>2019-07-16</lastmod>
+        <lastmod>2019-07-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
