@@ -2,28 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
+        <loc>http://open-src-soc.org/2nd-meetings-program.html</loc>
+        <lastmod>2019-08-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://open-src-soc.org/2nd-meetings-speakers.html</loc>
+        <lastmod>2019-08-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://open-src-soc.org/gdr-scienday-program.html</loc>
+        <lastmod>2019-08-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://open-src-soc.org/gdr-scienday-speakers.html</loc>
+        <lastmod>2019-08-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>http://open-src-soc.org/index.html</loc>
-        <lastmod>2019-08-20</lastmod>
+        <lastmod>2019-08-23</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/inscription.html</loc>
-        <lastmod>2019-07-19</lastmod>
+        <loc>http://open-src-soc.org/program.html</loc>
+        <lastmod>2019-08-23</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/localisation.html</loc>
-        <lastmod>2019-07-19</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>http://open-src-soc.org/programme.html</loc>
+        <loc>http://open-src-soc.org/registration.html</loc>
         <lastmod>2019-08-23</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -37,15 +58,8 @@
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/speakers-oct3.html</loc>
-        <lastmod>2019-08-22</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>http://open-src-soc.org/speakers.html</loc>
-        <lastmod>2019-08-22</lastmod>
+        <lastmod>2019-08-23</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -53,6 +67,13 @@
     <url>
         <loc>http://open-src-soc.org/sponsors.html</loc>
         <lastmod>2019-08-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>http://open-src-soc.org/venues.html</loc>
+        <lastmod>2019-08-23</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
