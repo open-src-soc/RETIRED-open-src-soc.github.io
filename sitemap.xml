@@ -79,8 +79,15 @@
     </url>
 
     <url>
+        <loc>http://open-src-soc.org/sponsors-table.html</loc>
+        <lastmod>2019-08-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>http://open-src-soc.org/sponsors.html</loc>
-        <lastmod>2019-08-29</lastmod>
+        <lastmod>2019-08-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
