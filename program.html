@@ -490,24 +490,24 @@ H3        { color: #a5b8b6 }
 <h1 id="tutorials">2nd RISC-V Meeting Tutorials</h1>
 <h2 id="T-CHAPUT">RISC-V design using Free Open Source Software</h2>
 <p>By <strong><a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P109">Jean-Paul Chaput</a></strong>, Roselyne Chotin, Marie-Minerve Louerat, Adrian Satin (<a href="https://www.lip6.fr">LIP6</a>).</p>
-<p>This tutorial aims to build a RISC-V processor using only free VLSI CAD tools with a symbolic technology approach (a refined Mead-Conway method as formerly used by MOSIS). The toolchain is currently organised as follow :</p>
+<p>This tutorial aims to build a RISC-V processor using only free VLSI CAD tools with a symbolic technology approach (a refined Mead-Conway method as formerly used by MOSIS). The toolchain is currently organised as follow:</p>
 <ol>
-<li><p>A design description in VHDL language.</p></li>
-<li><p>Simulation with GHDL.</p></li>
-<li><p>Logical synthesis with Yosys. We use a frontend to convert VHDL into Verilog (from Alliance).</p></li>
-<li><p>Physical design (place &amp; route) using Coriolis.</p></li>
-<li><p>DRC &amp; LVS using Alliance.</p></li>
-<li><p>Timing analysis with Tas &amp; Yagle.</p></li>
-<li><p>Symbolic to real translation (Alliance).</p></li>
+<li>A design description in VHDL language.</li>
+<li>Simulation with GHDL.</li>
+<li>Logical synthesis with Yosys. We use a frontend to convert VHDL into Verilog (from Alliance).</li>
+<li>Physical design (place &amp; route) using Coriolis.</li>
+<li>DRC &amp; LVS using Alliance.</li>
+<li>Timing analysis with Tas &amp; Yagle.</li>
+<li>Symbolic to real translation (Alliance).</li>
 </ol>
 <p>Our first objective is to design a RISC-V for AMS 350nm node (c35b4).</p>
-<p>The choice of symbolic technology is mainly made for three reasons :</p>
+<p>The choice of symbolic technology is mainly made for three reasons:</p>
 <ol>
-<li><p>Node portability. From one symbolic layout, you may target multiple technologies. Only step 7 needs to be done.</p></li>
-<li><p>Community. Symbolic layout do not contains any NDA related information. As such it can freely be published and shared.</p></li>
-<li><p>Security. With a published layout, everybody can check that the chip send back from the foundry is exactly what it should be (no hardware trojan).</p></li>
+<li>Node portability. From one symbolic layout, you may target multiple technologies. Only step 7 needs to be done.</li>
+<li>Community. Symbolic layout do not contains any NDA related information. As such it can freely be published and shared.</li>
+<li>Security. With a published layout, everybody can check that the chip send back from the foundry is exactly what it should be (no hardware trojan).</li>
 </ol>
-<p>/Jean-Paul Chaput holds a Master Degree in MicroElectronics and Software Engineering. He joined the LIP6 laboratory within SU (formerly UPMC) in 2000. Currently he is a Research Engineer in the Analog and Mixed Signal Team at LIP6. His main focus is on physical level design software. He is a key contributor in developing and maintaining the Alliance &amp; Coriolis VLSI CAD projects for CMOS technologies. In particular he contributed in developing the routers of both Alliance &amp; Coriolis and the whole Coriolis toolchain infrastructure. He his now a key contributor in extending Alliance &amp; Coriolis to the Analog Mixed-Signal integration for nanometric CMOS technologies./</p>
+<p><em>Jean-Paul Chaput holds a Master Degree in MicroElectronics and Software Engineering. He joined the LIP6 laboratory within SU (formerly UPMC) in 2000. Currently he is a Research Engineer in the Analog and Mixed Signal Team at LIP6. His main focus is on physical level design software. He is a key contributor in developing and maintaining the Alliance &amp; Coriolis VLSI CAD projects for CMOS technologies. In particular he contributed in developing the routers of both Alliance &amp; Coriolis and the whole Coriolis toolchain infrastructure. He his now a key contributor in extending Alliance &amp; Coriolis to the Analog Mixed-Signal integration for nanometric CMOS technologies.</em></p>
 <h2 id="T-PETROT">Teaching basic computer architecture, assembly language programming, and operating system design using RISC-V</h2>
 <p>By Liliana Andrare, Mounir Benabdendi, Olivier Muller, Frédéric Rousseau, <strong><a href="http://tima.imag.fr/sls/people/petrot/">Frédéric Pétrot</a></strong> (<a href="http://www.grenoble-inp.fr">Grenoble-IPN</a>).</p>
 <p>This talk presents the work done by the team teaching computer architecture and assembler level programming at the Institute of Engineering of Univ. Grenoble Alpes (<a href="http://ensimag.grenoble-inp.fr">Grenoble INP Ensimag</a>, <a href="http://phelma.grenoble-inp.fr">Grenoble INP Phelma</a> and <a href="https://www.polytech-grenoble.fr">Polytech'Grenoble</a>).</p>
