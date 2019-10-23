@@ -277,7 +277,7 @@ This event is sponsored by:</li>
 <tr class="odd">
 <td>09h00</td>
 <td><a href="#K-SEZNEC">André Seznec</a></td>
-<td><a href="#K-SEZNEC">It's the Instruction Fetch Front-End, Stupid!</a></td>
+<td><a href="#K-SEZNEC">It's the Instruction Fetch Front-End, Stupid!</a> (<a href="./media/slides/2nd-RISC-V-Meeting-2019-10-02-09h00-Andr%C3%A9-Seznec.pdf">slides</a>)</td>
 </tr>
 <tr class="even">
 <td><strong>10h00</strong></td>
@@ -292,7 +292,7 @@ This event is sponsored by:</li>
 <tr class="even">
 <td>10h15</td>
 <td><a href="#P-GOOSSENS">Bernard Goossens</a></td>
-<td><a href="#P-GOOSSENS">An Out-of-Order RISC-V Core Developed with HLS</a></td>
+<td><a href="#P-GOOSSENS">An Out-of-Order RISC-V Core Developed with HLS</a> (<a href="./media/slides/2nd-RISC-V-Meeting-2019-10-02-10h15-Bernard-Goossens.pdf">slides</a>)</td>
 </tr>
 <tr class="odd">
 <td>10h30</td>
@@ -536,7 +536,7 @@ This event is sponsored by:</li>
 <p>The growth of human and business interaction with technology continues to explode. At the literal heart of that technology sits a silicon core, combined with general and specific instructions and connections. The insane cost, risk, development time, necessary volumes, and limited computing demands kept the lucrative chip opportunity within reach of just a handful of companies – focused mostly on general purpose processors. New computing needs in various power and performance dimensions have increased demand and competition for custom processors. This pressure is quietly and rapidly disrupting the processor industry. An Open source approach to processors now reduces risk and investment, with accelerated time to market, and opens the opportunity to thousands of possible custom processors. Learn about the trends, opportunities, and examples – from smart watches to supercomputers – as well as the global momentum of RISC-V!</p>
 <p><em>Bertrand Tavernier is VP Software Research &amp; Technologies for Thales group. He manages global software R&amp;T strategy and lead software architects network between the seven Thales Global Business Unit and the five Thales Research &amp; Technology centers. Prior, he held several positions related to safety critical embedded software as Safran Electronics workbench chief engineer from 2011 to 2015.</em></p>
 <h2 id="K-SEZNEC">It's the Instruction Fetch Front-End, Stupid!</h2>
-<p>By <strong><a href="https://team.inria.fr/pacap/members/andre-seznec">André Seznec</a></strong> (<a href="https://www.inria.fr">INRIA</a>).</p>
+<p>By <strong><a href="https://team.inria.fr/pacap/members/andre-seznec">André Seznec</a></strong> (<a href="https://www.inria.fr">INRIA</a>). (<a href="./media/slides/2nd-RISC-V-Meeting-2019-10-02-09h00-Andr%C3%A9-Seznec.pdf">slides</a>).</p>
 <p>Achieving high single-thread performance remains a major challenge even in the multicore era. To achieve ultimate single-thread performance, a uniprocessor needs a very efficient memory hierarchy, an aggressive out-of-order execution core and a highly efficient instruction fetch front-end engine.</p>
 <p>In this talk, I will focus on the challenges for the design of the instruction fetch frond-end in a very wide-issue processor.</p>
 <p><em>André Seznec is a Fellow Research Director (DR0) at IRISA-INRIA in Rennes. His main research activity has ported on the architecture of microprocessors, including caches, pipeline, branch predictors, speculative execution, multithreading and multicores. His research has influenced the design of many high-end industrial microprocessors, particularly the caches and the branch predictors.</em></p>
@@ -595,7 +595,7 @@ This event is sponsored by:</li>
 <p>In this presentation, we will discuss about our design and implementation experience with Ara, a vector processor based on RISC-V's Vector Extension. Ara is implemented in GlobalFoundries 22FDX FD-SOI technology. Its latest instance runs at up to 1.2 GHz in nominal conditions, achieving a peak performance of up to 34 DP-GFLOPS and an energy efficiency of up to 67 DP-GFLOPS/W. We will discuss the performance and scalability of Ara, including its limitations under different work loads, and show that the vector processor achieves a high utilization of its functional units, up to 97%, when running a 256x256 matrix multiplication on sixteen lanes. Ara will be released as part of the PULP platform using the same permissive Solderpad license.</p>
 <p><em>Matheus Cavalcante received the M.Sc. degree in Integrated Electronic Systems from the Grenoble Institute of Technology (Phelma) in 2018 and is currently pursuing his Ph.D. degree with the Digital Circuits and Systems group of Luca Benini at ETH Zurich. His research interests encompass high-performance computing (namely vector processing) and interconnection networks.</em></p>
 <h2 id="P-GOOSSENS">An Out-of-Order RISC-V Core Developed with HLS</h2>
-<p>By <strong><a href="https://perso.univ-perp.fr/bernard.goossens/">Bernard Goossens</a></strong> &amp; David Parello (<a href="https://webdali.univ-perp.fr">UPVD</a>).</p>
+<p>By <strong><a href="https://perso.univ-perp.fr/bernard.goossens/">Bernard Goossens</a></strong> &amp; David Parello (<a href="https://webdali.univ-perp.fr">UPVD</a>). (<a href="./media/slides/2nd-RISC-V-Meeting-2019-10-02-10h15-Bernard-Goossens.pdf">slides</a>).</p>
 <p>I will introduce the out-of-order RISC-V core (4-stage pipeline: fetch + decode + rename; issue; writeback; commit) that we developed. Everything is written entirely in C under Vivado HLS. The code has been successfully tested on a Pynq card (free development board provided to teacher-researchers upon request to Xilinx, as part of the XUP initiative). This RISC-V core should be understood as a basic kit on which users are invited to add extensions. The RISC-V core does not contain any traditional accelerator for filling the pipeline (eg branch predictor, caches) or floating operators (only the set of 32-bit integer instructions has been implemented). It can serve as a nutshell to add units and measure their effects, for example in the context of educational projects. This RISC-V core is the core brick of the LBP processor, a 64-cores manycore parallelizing processor, under development.</p>
 <p><em>Bernard Goossens is Professor Emeritus at the <a href="https://webdali.univ-perp.fr">University of Perpignan (UPVD)</a>. He is a member of the <a href="http://www.lirmm.fr/recherche/equipes/dali">Dali</a> team at <a href="http://www.lirmm.fr">LIRMM</a>. His research is on the capture of very distant ILP.</em></p>
 <h2 id="P-TAHERINEJAD">Open source GPUs: How can RISC-V play a role?</h2>
